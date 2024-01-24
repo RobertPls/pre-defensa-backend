@@ -1,0 +1,15 @@
+C:\Users\lenovo\Downloads\PreDefensa\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\lenovo\Downloads\PreDefensa\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\lenovo\Downloads\PreDefensa\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\lenovo\Downloads\PreDefensa\Domain\bin\Debug\net7.0\SharedKernel.dll
+C:\Users\lenovo\Downloads\PreDefensa\Domain\bin\Debug\net7.0\SharedKernel.pdb
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\lenovo\Downloads\PreDefensa\Domain\obj\Debug\net7.0\ref\Domain.dll

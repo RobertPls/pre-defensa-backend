@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0LMbzRt9z+fB86dENfLRIyt0AHuh+DCqmS9UnAX/piwhvqmHVmNj4zOv3pwHvhI6oo4rJRO7BzJw/DmySVtaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Downloads\\PreDefensa\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

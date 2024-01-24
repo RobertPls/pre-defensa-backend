@@ -1,0 +1,12 @@
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\bin\Debug\net7.0\SharedKernel.deps.json
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\bin\Debug\net7.0\SharedKernel.dll
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\bin\Debug\net7.0\SharedKernel.pdb
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\SharedKernel.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\SharedKernel.dll
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\refint\SharedKernel.dll
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\SharedKernel.pdb
+C:\Users\lenovo\Downloads\PreDefensa\SharedKernel\obj\Debug\net7.0\ref\SharedKernel.dll
